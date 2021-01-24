@@ -1,0 +1,10 @@
+D:\C#.Programs\AirLines_S5\bin\Debug\AirLines_S5.exe.config
+D:\C#.Programs\AirLines_S5\bin\Debug\AirLines_S5.exe
+D:\C#.Programs\AirLines_S5\bin\Debug\AirLines_S5.pdb
+D:\C#.Programs\AirLines_S5\obj\Debug\AirLines_S5.csprojAssemblyReference.cache
+D:\C#.Programs\AirLines_S5\obj\Debug\AirLines_S5.Properties.Resources.resources
+D:\C#.Programs\AirLines_S5\obj\Debug\AirLines_S5.csproj.GenerateResource.cache
+D:\C#.Programs\AirLines_S5\obj\Debug\AirLines_S5.csproj.CoreCompileInputs.cache
+D:\C#.Programs\AirLines_S5\obj\Debug\AirLines_S5.exe
+D:\C#.Programs\AirLines_S5\obj\Debug\AirLines_S5.pdb
+D:\C#.Programs\AirLines_S5\obj\Debug\AirLines_S5.AmenitiesForm.resources
